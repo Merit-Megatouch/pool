@@ -3,4 +3,3 @@
 # (usually in src/host/loader_services.cpp) before the game will start.
 # symbol | needed by
 CreditsManagerI::AvailableCredits() | pool.so
-uszprintf | pool.so
